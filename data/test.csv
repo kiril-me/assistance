@@ -1,0 +1,195 @@
+product	9:13:color,14:19:product,25:30:size	BOS show grey denim size large EOS
+product	15:20:size,33:39:product	BOS my size is small do you have dresse for me EOS
+product	9:14:color,15:21:product,27:29:size	BOS show white shirts size xl EOS
+product	15:16:size,29:35:product	BOS my size is m do you have blazer for me EOS
+product	9:13:color,14:20:product,26:37:size	BOS show blue dresse size extra large EOS
+product	15:17:size,30:35:product	BOS my size is xl do you have jeans for me EOS
+product	15:21:size,34:40:product	BOS my size is medium do you have blazer for me EOS
+product	9:13:color,14:18:product,24:25:size	BOS show pink polo size m EOS
+product	9:14:color,15:21:product,27:33:size	BOS show brown bomber size medium EOS
+product	19:23:product,24:28:color	BOS get discounted suit grey EOS
+product	9:15:color,16:22:product,28:29:size	BOS show purple bomber size s EOS
+product	23:28:product	BOS could you find the skirt EOS
+product	11:14:color,15:21:product	BOS i want red blazer EOS
+product	9:12:color,13:21:product,27:33:size	BOS show tan trousers size medium EOS
+product	9:12:color,13:18:product,24:35:size	BOS show red skirt size extra large EOS
+product	9:12:color,13:17:product,23:24:size	BOS show tan coat size s EOS
+product	9:13:color,14:20:product,26:27:size	BOS show pink dresse size s EOS
+product	11:16:color,17:22:product	BOS i want white shirt EOS
+product	9:13:product,19:20:size	BOS find coat size m EOS
+product	15:26:size,39:45:product	BOS my size is extra large do you have jacket for me EOS
+product	14:18:product	BOS how about suit EOS
+product	9:12:color,13:18:product,24:30:size	BOS show red shirt size medium EOS
+product	9:13:color,14:20:product,26:32:size	BOS show pink dresse size medium EOS
+product	9:15:color,16:20:product,26:31:size	BOS show orange suit size small EOS
+product	9:13:color,14:19:product,25:27:size	BOS show grey jeans size xl EOS
+product	9:12:color,13:17:product,23:28:size	BOS show tan suit size large EOS
+product	9:15:color,16:24:product,30:32:size	BOS show purple trousers size xl EOS
+product	9:14:color,15:19:product,25:27:size	BOS show white polo size xl EOS
+product	9:14:color,15:21:product,27:28:size	BOS show white shirts size m EOS
+product	9:13:color,14:19:product,25:26:size	BOS show pink denim size m EOS
+product	9:12:color,13:18:product,24:26:size	BOS show tan jeans size xl EOS
+product	19:24:product,25:30:color	BOS get discounted skirt white EOS
+product	9:15:color,16:20:product,26:27:size	BOS show orange polo size m EOS
+product	16:22:product	BOS show me new jacket collection EOS
+product	9:12:color,13:19:product,25:27:size	BOS show red shirts size xl EOS
+product	9:15:color,16:20:product,26:37:size	BOS show purple suit size extra large EOS
+product	19:25:product,26:30:color	BOS get discounted dresse blue EOS
+product	11:21:product	BOS i want sportswear for tonight EOS
+product	9:14:color,15:21:product,27:32:size	BOS show white bomber size large EOS
+product	9:12:color,13:19:product,25:31:size	BOS show red bomber size medium EOS
+product	9:15:product,21:26:size	BOS find bomber size small EOS
+product	9:13:color,14:22:product,28:29:size	BOS show grey trousers size s EOS
+product	11:14:color,15:21:product	BOS i want tan jacket EOS
+product	9:13:product,19:24:size	BOS find polo size small EOS
+product	9:13:color,14:19:product,25:27:size	BOS show grey shirt size xl EOS
+product	9:12:color,13:17:product,23:29:size	BOS show red suit size medium EOS
+product	9:17:product,23:25:size	BOS find trousers size xl EOS
+product	13:19:product,20:22:size	BOS i need a bomber xl EOS
+product	9:14:color,15:19:product,25:26:size	BOS show white polo size m EOS
+product	13:19:product,20:21:size	BOS i need a dresse s EOS
+product	9:13:color,14:19:product,25:26:size	BOS show pink shirt size s EOS
+product	9:15:color,16:21:product,27:28:size	BOS show purple denim size s EOS
+product	11:17:product	BOS i want blazer for tonight EOS
+product	9:15:color,16:22:product,28:33:size	BOS show purple blazer size large EOS
+product	9:14:color,15:20:product,26:37:size	BOS show brown shirt size extra large EOS
+product	9:13:color,14:20:product,26:28:size	BOS show grey jacket size xl EOS
+product	9:14:product,20:21:size	BOS find jeans size m EOS
+product	9:12:color,13:19:product,25:27:size	BOS show tan dresse size xl EOS
+product	9:15:color,16:21:product,27:28:size	BOS show orange jeans size m EOS
+product	18:27:product	BOS i am lookinkg underwear EOS
+product	9:15:color,16:20:product,26:27:size	BOS show orange suit size m EOS
+product	9:13:color,14:18:product,24:25:size	BOS show grey coat size m EOS
+product	9:14:color,15:19:product,25:30:size	BOS show white suit size small EOS
+product	11:17:color,18:28:product	BOS i want yellow sportswear EOS
+product	9:12:color,13:19:product,25:26:size	BOS show red jacket size m EOS
+product	15:20:size,33:39:product	BOS my size is large do you have dresse for me EOS
+product	9:15:color,16:21:product,27:38:size	BOS show orange shirt size extra large EOS
+product	9:15:color,16:20:product,26:31:size	BOS show yellow coat size small EOS
+product	13:18:product,19:21:size	BOS i need a jeans xl EOS
+product	9:13:color,14:19:product,25:26:size	BOS show blue jeans size m EOS
+product	9:12:color,13:19:product,25:31:size	BOS show red blazer size medium EOS
+product	9:12:color,13:17:product,23:24:size	BOS show red suit size m EOS
+product	9:15:color,16:20:product,26:27:size	BOS show purple coat size m EOS
+product	9:15:color,16:21:product,27:38:size	BOS show yellow shirt size extra large EOS
+product	13:19:product,20:26:size	BOS i need a jumper medium EOS
+product	15:26:size,39:49:product	BOS my size is extra large do you have sportswear for me EOS
+product	9:13:color,14:20:product,26:27:size	BOS show blue bomber size s EOS
+product	9:13:color,14:19:product,25:26:size	BOS show pink jeans size s EOS
+product	9:12:color,13:18:product,24:25:size	BOS show red jeans size m EOS
+product	9:13:color,14:20:product,26:32:size	BOS show pink blazer size medium EOS
+product	29:35:product	BOS can you help me with the shirts EOS
+product	15:20:size,33:38:product	BOS my size is small do you have skirt for me EOS
+product	13:19:product,20:31:size	BOS i need a dresse extra large EOS
+product	13:18:product,19:25:size	BOS i need a jeans medium EOS
+product	9:15:color,16:22:product,28:33:size	BOS show orange blazer size small EOS
+product	19:25:product,26:32:color	BOS get discounted dresse orange EOS
+cost		BOS    i am ready to pay EOS
+product	9:14:color,15:21:product,27:32:size	BOS show white bomber size small EOS
+product	19:25:product,26:32:color	BOS get discounted bomber purple EOS
+product	19:24:product,25:31:color	BOS get discounted denim yellow EOS
+product	11:16:color,17:25:product	BOS i want white trousers EOS
+product	9:13:product,19:21:size	BOS find coat size xl EOS
+product	9:14:product,20:31:size	BOS find jeans size extra large EOS
+product	9:13:color,14:20:product,26:28:size	BOS show grey jumper size xl EOS
+product	9:15:color,16:22:product,28:39:size	BOS show purple dresse size extra large EOS
+product	9:15:color,16:21:product,27:38:size	BOS show yellow denim size extra large EOS
+product	16:22:product	BOS show me new shirts collection EOS
+product	19:23:product,24:27:color	BOS get discounted coat tan EOS
+product	19:23:product,24:28:color	BOS get discounted polo blue EOS
+product	9:15:color,16:22:product,28:33:size	BOS show orange shirts size large EOS
+product	9:13:color,14:19:product,25:27:size	BOS show blue shirt size xl EOS
+product	9:14:product,20:22:size	BOS find skirt size xl EOS
+product	9:12:color,13:18:product,24:26:size	BOS show red skirt size xl EOS
+product	19:27:product,28:32:color	BOS get discounted trousers pink EOS
+product	9:15:color,16:21:product,27:28:size	BOS show orange skirt size s EOS
+product	9:12:color,13:18:product,24:25:size	BOS show red shirt size m EOS
+product	19:25:product,26:31:color	BOS get discounted jumper white EOS
+product	9:15:color,16:22:product,28:29:size	BOS show orange blazer size s EOS
+product	9:15:color,16:22:product,28:29:size	BOS show purple jumper size m EOS
+product	9:13:color,14:20:product,26:31:size	BOS show pink shirts size small EOS
+product	11:14:color,15:23:product	BOS i want tan trousers EOS
+product	9:15:color,16:20:product,26:27:size	BOS show orange polo size s EOS
+product	16:22:product	BOS show me new blazer collection EOS
+product	9:12:color,13:19:product,25:31:size	BOS show red jacket size medium EOS
+product	9:13:product,19:24:size	BOS find suit size large EOS
+product	11:15:color,16:22:product	BOS i want blue shirts EOS
+product	9:13:color,14:19:product,25:30:size	BOS show blue jeans size small EOS
+product	9:13:color,14:18:product,24:25:size	BOS show blue suit size m EOS
+product	9:14:color,15:21:product,27:32:size	BOS show brown shirts size large EOS
+product	9:13:color,14:20:product,26:31:size	BOS show blue blazer size large EOS
+product	19:23:product,24:30:color	BOS get discounted coat yellow EOS
+product	9:13:color,14:23:product,29:34:size	BOS show grey underwear size large EOS
+product	19:23:product,24:29:color	BOS get discounted suit brown EOS
+product	13:18:product,19:24:size	BOS i need a shirt small EOS
+product	9:13:color,14:18:product,24:26:size	BOS show grey coat size xl EOS
+product	9:14:color,15:19:product,25:36:size	BOS show brown polo size extra large EOS
+cost		BOS    i'l take it EOS
+product	9:13:color,14:20:product,26:27:size	BOS show pink jacket size m EOS
+product	9:15:product,21:23:size	BOS find shirts size xl EOS
+product	9:17:product,23:24:size	BOS find trousers size m EOS
+product	11:15:color,16:21:product	BOS i want pink skirt EOS
+product	9:15:color,16:22:product,28:33:size	BOS show yellow shirts size large EOS
+product	9:15:color,16:21:product,27:32:size	BOS show purple denim size large EOS
+product	9:15:color,16:22:product,28:33:size	BOS show orange jumper size small EOS
+product	11:14:color,15:20:product	BOS i want tan shirt EOS
+product	15:20:size,33:38:product	BOS my size is small do you have denim for me EOS
+product	9:13:color,14:18:product,24:35:size	BOS show pink suit size extra large EOS
+product	9:12:color,13:19:product,25:31:size	BOS show red jumper size medium EOS
+product	9:17:product,23:28:size	BOS find trousers size small EOS
+product	9:14:color,15:21:product,27:28:size	BOS show white shirts size s EOS
+product	9:13:color,14:20:product,26:31:size	BOS show grey shirts size small EOS
+product	9:12:color,13:18:product,24:35:size	BOS show red shirt size extra large EOS
+product	15:20:size,33:43:product	BOS my size is small do you have sportswear for me EOS
+product	9:18:product,24:25:size	BOS find underwear size s EOS
+product	9:15:color,16:21:product,27:33:size	BOS show yellow skirt size medium EOS
+product	9:13:color,14:19:product,25:26:size	BOS show pink shirt size m EOS
+product	9:13:color,14:19:product,25:36:size	BOS show pink denim size extra large EOS
+product	19:24:product	BOS please show me skirt EOS
+product	19:27:product,28:31:color	BOS get discounted trousers red EOS
+product	19:25:product,26:30:color	BOS get discounted shirts grey EOS
+product	9:12:color,13:19:product,25:31:size	BOS show tan jacket size medium EOS
+product	15:16:size,29:33:product	BOS my size is s do you have coat for me EOS
+product	9:14:color,15:20:product,26:32:size	BOS show white skirt size medium EOS
+product	9:12:color,13:19:product,25:36:size	BOS show tan jumper size extra large EOS
+product	16:22:product	BOS show me new jumper collection EOS
+product	9:15:color,16:24:product,30:31:size	BOS show purple trousers size s EOS
+product	9:15:color,16:20:product,26:27:size	BOS show yellow polo size m EOS
+product	15:20:size,33:39:product	BOS my size is large do you have jacket for me EOS
+product	9:12:color,13:21:product,27:32:size	BOS show tan trousers size small EOS
+product	15:20:size,33:37:product	BOS my size is large do you have polo for me EOS
+product	9:12:color,13:18:product,24:30:size	BOS show red jeans size medium EOS
+product	9:13:color,14:22:product,28:29:size	BOS show pink trousers size m EOS
+product	15:26:size,39:48:product	BOS my size is extra large do you have underwear for me EOS
+product	9:15:color,16:22:product,28:29:size	BOS show purple jacket size s EOS
+product	9:12:color,13:18:product,24:35:size	BOS show tan denim size extra large EOS
+product	9:15:color,16:21:product,27:38:size	BOS show purple skirt size extra large EOS
+product	9:14:color,15:21:product,27:38:size	BOS show brown bomber size extra large EOS
+product	9:12:color,13:19:product,25:26:size	BOS show tan bomber size s EOS
+product	13:18:product,19:24:size	BOS i need a jeans small EOS
+product	13:23:product,24:29:size	BOS i need a sportswear small EOS
+product	9:13:color,14:20:product,26:32:size	BOS show blue blazer size medium EOS
+product	9:13:color,14:24:product,30:35:size	BOS show pink sportswear size large EOS
+product	9:13:color,14:19:product,25:30:size	BOS show grey skirt size small EOS
+product	9:13:color,14:19:product,25:26:size	BOS show grey skirt size m EOS
+product	9:12:color,13:19:product,25:31:size	BOS show tan jumper size medium EOS
+product	9:12:color,13:19:product,25:26:size	BOS show red jumper size s EOS
+product	16:21:product	BOS do you have jeans EOS
+product	9:13:product,19:25:size	BOS find coat size medium EOS
+product	19:25:product	BOS please show me jacket EOS
+product	9:15:color,16:21:product,27:32:size	BOS show orange denim size large EOS
+product	9:15:color,16:20:product,26:37:size	BOS show purple polo size extra large EOS
+product	9:14:color,15:25:product,31:36:size	BOS show white sportswear size small EOS
+product	9:15:color,16:21:product,27:32:size	BOS show yellow jeans size small EOS
+product	11:14:color,15:20:product	BOS i want red shirt EOS
+product	19:24:product,25:31:color	BOS get discounted skirt orange EOS
+product	9:13:color,14:19:product,25:26:size	BOS show grey shirt size s EOS
+product	11:17:color,18:23:product	BOS i want purple skirt EOS
+product	9:14:color,15:20:product,26:28:size	BOS show brown skirt size xl EOS
+product	11:17:color,18:23:product	BOS i want orange denim EOS
+product	15:16:size,29:35:product	BOS my size is s do you have jumper for me EOS
+product	9:12:color,13:18:product,24:25:size	BOS show tan denim size s EOS
+product	13:18:product,19:30:size	BOS i need a shirt extra large EOS
+product	11:14:color,15:21:product	BOS i want tan shirts EOS
+product	9:13:color,14:24:product,30:32:size	BOS show grey sportswear size xl EOS
+product	9:14:color,15:20:product,26:27:size	BOS show brown jeans size m EOS

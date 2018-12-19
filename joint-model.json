@@ -1,0 +1,85 @@
+{
+  "config": {
+    "task": {
+      "JointTextTask": {
+        "model": {
+          "representation": {
+            "BiLSTMDocSlotAttention": {
+              "lstm": {
+                "dropout": 0.5,
+                "lstm_dim": 366,
+                "num_layers": 2,
+                "bidirectional": true
+              },
+              "pooling": {
+                "SelfAttention": {
+                  "attn_dimension": 128
+                }
+              }
+            }
+          },
+          "output_layer": {
+            "doc_output": {
+              "loss": {
+                "CrossEntropyLoss": {}
+              }
+            },
+            "word_output": {
+              "CRFOutputLayer": {}
+            }
+          }
+        },
+        "features": {
+          "word_feat": {
+            "embed_dim": 100,
+            "embedding_init_strategy": "zero",
+            "export_input_names": [
+              "tokens_vals"
+            ],
+            "pretrained_embeddings_path": "data/glove.6B.100d.txt",
+            "vocab_from_train_data": true,
+            "vocab_from_all_data": false,
+            "lowercase_tokens": true
+          }
+        },
+        "optimizer": {
+          "type": "adam",
+          "lr": "0.001",
+          "weight_decay": 0
+        },
+        "trainer": {
+          "epochs": 25
+        },
+        "featurizer": {
+          "SimpleFeaturizer": {}
+        },
+        "labels": [
+          {
+            "DocLabelConfig": {}
+          },
+          {
+            "WordLabelConfig": {}
+          }
+        ],
+        "data_handler": {
+          "columns_to_read": [
+            "doc_label",
+            "word_label",
+            "text"
+          ],
+          "max_seq_len": 20,
+          "train_batch_size": 86,
+          "eval_batch_size": 128,
+          "test_batch_size": 128,
+          "train_path": "data/train.csv",
+          "eval_path": "data/val.csv",
+          "test_path": "data/test.csv"
+        },
+        "exporter": {}
+      }
+    },
+    "save_snapshot_path": "/tmp/joint_model.pt",
+    "export_caffe2_path": "/tmp/joint_model.c2"
+  }
+}
+
